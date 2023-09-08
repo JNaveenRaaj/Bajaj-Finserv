@@ -30,7 +30,7 @@ app.post('/bfhl', (req, res) => {
       const highestAlphabet = sortedAlphabets[sortedAlphabets.length - 1];
   
     
-      const email = 'jnaveenraaj2003@gmail.com';
+      const email = 'jr3631@srmist.edu.in';
       const roll_number = 'RA2011032010026';
   
      
